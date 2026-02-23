@@ -30,5 +30,5 @@ A web app to manage student records using **Python Flask** and **SQLite**.
 ---
 
 ## 📫 Contact Me
-- Email: **kevin.omondi@email.com** (replace with your email)  
+- Email: **kevinomondi625@gmail.com** 
 - Location: **Nairobi, Kenya**
